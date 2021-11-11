@@ -1,0 +1,2 @@
+C:\Users\yuval.p\source\repos\BowlingYuval\BowlingYuval\obj\Release\BowlingYuval.csproj.AssemblyReference.cache
+C:\Users\yuval.p\source\repos\BowlingYuval\BowlingYuval\obj\Release\BowlingYuval.csproj.CoreCompileInputs.cache
